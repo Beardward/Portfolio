@@ -16,4 +16,4 @@ battery charge levels, historic energy consumption, and distances traveled. Each
 
 
 
-![Further desc](/images/Range_Temps.png "All Measured Vehicle Ranges with Monthly Max and Min Temps")
+[![Further desc](/images/Range_Temps.png "All Measured Vehicle Ranges with Monthly Max and Min Temps")](https://github.com/Beardward/Portfolio/blob/main/images/Range_Temps.png)
