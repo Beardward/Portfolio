@@ -1,3 +1,8 @@
+# University of Minnesota Fleet Electrification Project
+
+The following projects shown in this section were all completed in efforts to optimize and facilitate the transition of over half (>250 vehicles) of the Twin-Cities
+campus fleet to electric or hybrid alternatives. I was project lead on the feasibility stage of this project and now have continued as lead and co-manager in the ongoing implementation stage. 
+
 
 ### A Seasonal Analysis of Electric Vehicle Performance
 
